@@ -4,4 +4,5 @@
 
 [进入文档](main/ ':include')
 
-![](https://api.xieweiling.top/?imgtype=pc&tags=唯美&type=yktk)
+![](https://api.xieweiling.top/?imgtype=zx-pc&type=yktk)
+
