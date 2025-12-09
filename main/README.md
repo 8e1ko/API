@@ -2,13 +2,13 @@
 <br>
 
 >## 前言
-> 文档更新日期：2025.11.22
+> 文档更新日期：2025.12.10
 >- 接口默认图片清晰度为默认略缩图
 
 - 所有图片均来源于网络
 - 为保证图片质量，所有图片均为手动添加和分类
 - 截止至目前为止已经收录有1W+的二次元图片
-- 图片最后更新时间为：2025.11.22
+- 图片最后更新时间为：2025.12.10
 - [点击前往](https://beiko.top/)我搭建的图库在线看高清原图
 
 >## API基本调用格式
@@ -35,6 +35,16 @@ https://api.xieweiling.top/?imgtype=random
 
 ```HTTPS
 https://api.xieweiling.top/?imgtype=zx
+```
+- 最新横屏图片： [点击前往](https://api.xieweiling.top/?imgtype=zx-pc) 
+
+```HTTPS
+https://api.xieweiling.top/?imgtype=zx-pc
+```
+- 最新竖屏图片： [点击前往](https://api.xieweiling.top/?imgtype=zx-mp) 
+
+```HTTPS
+https://api.xieweiling.top/?imgtype=zx-mp
 ```
 - 横屏图片： [点击前往](https://api.xieweiling.top/?imgtype=pc) 
 
